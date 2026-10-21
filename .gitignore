@@ -1,0 +1,32 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Secrets & Environment configs
+.env
+!.env.example
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Persistent data volumes
+pgdata/
+redis_data/
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# Editor & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
