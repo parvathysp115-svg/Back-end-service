@@ -15,7 +15,7 @@ greenlet>=3.0.3
 aiosqlite>=0.20.0
 
 # AI & LLM SDKs
-google-genai==0.1.1
+google-genai==0.7.0
 google-generativeai==0.7.2
 
 # Document Parsing
